@@ -1,0 +1,24 @@
+{
+  "name": "www.vacprotecta.com",
+  "version": "1.0.0",
+  "description": "VacProtecta Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikingbadger/www.vacprotecta.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bikingbadger/www.vacprotecta.com/issues"
+  },
+  "homepage": "https://github.com/bikingbadger/www.vacprotecta.com#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.1"
+  }
+}
